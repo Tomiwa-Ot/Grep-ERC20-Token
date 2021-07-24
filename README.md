@@ -1,4 +1,4 @@
-# Grep-erc20-Token
+# Grep-ERC20-Token
 An ethereum token
 
 
