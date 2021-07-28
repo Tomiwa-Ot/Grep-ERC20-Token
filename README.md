@@ -1,4 +1,4 @@
-# Grep-ERC20-Token
+# Grep ERC20 Token
 
 https://ropsten.etherscan.io/token/0xcc316be9c68c5cd99bdeda9b63c44cf424df6891?a=0xe29b272f5839257fa556b190869cb3387bbd28cc
 
